@@ -1,7 +1,7 @@
 # Workspaces
 This is a workspace to guide workspace discussions, right now this is dedicated to helping define the different types of workspaces.
 
-*   [**Engineering Onboarding Workspace**](https://postman.postman.co/workspace/Workspace-Examples---Engineerin~5dffa06a-760d-4e94-b1f3-a06041bd2afe/overview) **\-** A workspace for providing team members with what they need to begin working with engineering APIs.
+*   [**Engineering Onboarding Workspace**](https://postman.postman.co/workspace/Workspace-Examples---Engineerin~5dffa06a-760d-4e94-b1f3-a06041bd2afe/overview) ([Discussion](https://github.com/postman-open-technologies/workspaces/issues/1)) - A workspace for providing team members with what they need to begin working with engineering APIs.
 *   [**Engineering Reference Workspace**](https://postman.postman.co/workspace/Workspace-Examples---Engineerin~fcdbe214-84f4-4793-8442-d14ea4c443eb/overview) **\-** A workspace for providing developers with a reference implementation showing what ideal API practices look like.
 *   [**Infrastructure Workspace**](https://postman.postman.co/workspace/Workspace-Examples---Infrastruc~d38c1d62-e1f9-43b7-b026-192e6af22cac/overview) - A workspace for providing DevOps/IT with what they need to manage their work across operations.
 *   [**Developer Workspaces**](https://postman.postman.co/workspace/Workspace-Examples---Developer-~bf4d6e5c-d2a4-4994-9f4c-3a9004e41204/overview) **\-** A workspace for managing everything involved with producing an API.
