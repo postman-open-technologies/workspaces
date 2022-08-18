@@ -1,5 +1,5 @@
-# Workspaces
-This is a workspace to guide workspace discussions, right now this is dedicated to helping define the different types of workspaces.
+# PM Corp Workspaces
+PM Corp is a company providing strategy and logistics for intergalactic missions. We are an API-first company, providing the next generation of digital resources, capabilities, and experiences across a variety of industries looking to lead business expansion into space. To manage our operations, we employ eleven separate workspaces to meet the daily needs across our operations, with three levels of visibility.
 
 *   [**Engineering Onboarding Workspace**](https://postman.postman.co/workspace/Workspace-Examples---Engineerin~5dffa06a-760d-4e94-b1f3-a06041bd2afe/overview) ([Discussion](https://github.com/postman-open-technologies/workspaces/issues/1)) - A workspace for providing team members with what they need to begin working with engineering APIs.
 *   [**Engineering Reference Workspace**](https://postman.postman.co/workspace/Workspace-Examples---Engineerin~fcdbe214-84f4-4793-8442-d14ea4c443eb/overview) ([Discussion](https://github.com/postman-open-technologies/workspaces/issues/2)) - A workspace for providing developers with a reference implementation showing what ideal API practices look like.
@@ -13,4 +13,4 @@ This is a workspace to guide workspace discussions, right now this is dedicated 
 *   [**Demo workspace**](https://postman.postman.co/workspace/Workspace-Examples---Demo-works~80712e8b-7599-426e-be6f-5c52f68b6161/overview) ([Discussion](https://github.com/postman-open-technologies/workspaces/issues/10)) - A place for solution/sales/marketing engineers to show how an API works.
 *   [**Public API Workspace**](https://postman.postman.co/workspace/Workspace-Examples---Public-API~bbbc7409-bc7b-4063-8ea3-a87896d482ed/overview) ([Discussion](https://github.com/postman-open-technologies/workspaces/issues/11)) - A workspace dedicated to meeting the needs of a public API.
 
-Feel free to jump in and watch, fork, or comment in any workspace, or jump in on the issue-driven discussion for each of the workspace types.
+PM Corp depends on APIs to deliver what our customers need, and we depend on these eleven workspace use cases to produce APIs but also engage with internal, external, and public API consumers, as well as manage our own consumption of partner and 3rd party APIs that we depend on.
